@@ -3,7 +3,7 @@
 
 ## Project Name - BoardVerse
 
-## Initial Situation / Problem Statement / Background
+## Background
 
 We’ve been frustrated by how hard it is to get everyone together in one place for a board game night. That’s why we want to create a board game platform. Unlike most existing sites that only offer a single game (like chess or checkers), ours will bring multiple games together in one place, so players don’t need to keep switching between different websites. Another common problem with online board game platforms is that playing against strangers often feels isolating. To fix this, we’ll add built-in chat features, making it easier to connect and interact with fellow players.
 
