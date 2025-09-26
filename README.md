@@ -67,6 +67,6 @@ Milestones:
 
 ## Project Organization (Roles)
 
-* Project Sponsor – Prof. Bauer
+* Project Owner – Prof. Bauer
 * Project Managers – Prof. Klewein, Prof. Aitenbichler
 * Project Team Members – Roland Fornvald, Florian Krippel, Vincent Federsel
