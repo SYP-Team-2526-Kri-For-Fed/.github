@@ -56,7 +56,6 @@ Milestones:
 * 26.09.2025 – Project start / Kick-off
 * 17.10.2025 – Technical framework completed
 * 12.12.2025 – Completion of MVP games
-* 23.01.2026 – First internal test phase (Alpha)
 * 13.02.2026 – Integration of lobby & chat
 * 13.03.2026 – Beta version with chat function and lobby
 * 17.04.2026 – Expansion and community features
